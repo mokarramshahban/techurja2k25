@@ -1,14 +1,5 @@
 @charset "UTF-8";
 /*-----------------------------------------------------------------------------------
-
-    Template Name: O-Tech HTML Template
-    Author: VikingLab
-    Support: 
-    Description: O-Tech HTML Template
-    Version: 1.0.0
-
------------------------------------------------------------------------------------
-
 /************ TABLE OF CONTENTS ***************
 
 	-----------------
@@ -11409,4 +11400,9 @@ span.rot-minus {
   font-weight: 700;
 }
 
-/*# sourceMappingURL=style.css.map */
+
+
+.border-custom {
+  border-color: #2E0797 !important;
+}
+
